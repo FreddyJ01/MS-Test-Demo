@@ -2,7 +2,7 @@
 
 ## Create MSTest Project
 Create "MSTest Test Project" Project
-* Naming Convention: <ClassUnderTest>tests
+* Naming Convention: "ClassUnderTest"tests
 
 ## Add Project Reference
 Your test project will exist independently of the project you intend to test. This means we need to add a reference from the test project to the project under test.
